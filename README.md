@@ -30,6 +30,7 @@ return 'Hola mundo!';
 }
 //En este caso es :string porque retorna una cadeta de texto
 ```
+## Tipos en TypeScript
 ```
 //Todo tiene un tipo
 let x: any = 42; //any admite cualquier tipo
