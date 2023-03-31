@@ -4,7 +4,7 @@
 
 ```
 //Tipo de datos number
-let age: number = 42;
+let age: number = 42;  
 ```
 
 ```
