@@ -1,4 +1,4 @@
-# Primeros pasos con TypeScript
+# Primeros pasos con TypeScript  
 
 ## Tipos de datos
 
