@@ -3,7 +3,7 @@
 ## Tipos de datos
 
 ```
-//Tipo de datos number
+//Tipo de datos number 
 let age: number = 42;  
 ```
 
