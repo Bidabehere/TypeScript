@@ -1,6 +1,6 @@
 # Primeros pasos con TypeScript  
 
-## Tipos de datos
+## Tipos de datos 
 
 ```
 //Tipo de datos number 
